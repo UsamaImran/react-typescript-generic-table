@@ -3,10 +3,10 @@ import Table from './components/table/Table'
 const testColumns = ['Name', 'Age', 'City', 'Address']
 const testRows = [
     { name: 'usama', age: '24', city: 'grw', address: 'grw' },
-    { name: 'usama', age: '24', city: 'grw', address: 'grw' },
-    { name: 'usama', age: '24', city: 'grw', address: 'grw' },
-    { name: 'usama', age: '24', city: 'grw', address: 'grw' },
-    { name: 'usama', age: '24', city: 'grw', address: 'grw' },
+    { name: 'usama1', age: '25', city: 'grw', address: 'grw' },
+    { name: 'usama2', age: '26', city: 'grw', address: 'grw' },
+    { name: 'usama3', age: '27', city: 'grw', address: 'grw' },
+    { name: 'usama4', age: '28', city: 'grw', address: 'grw' },
 ]
 function App() {
     return (
